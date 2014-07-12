@@ -1,0 +1,13 @@
+加dash-
+x x x.html
+x-x-x.html
+(/)(\w+)(\ )(\w+)(\ )(.+).html
+\1\2-\4-\6.html
+
+
+加连接
+[x x x](/zzz/2)
+[x x x](/zzz/x x x.html)
+
+(\[)(.*)(\])(\(/.*/)(\d+)
+\1\2\3\4\2.html

@@ -1,0 +1,24 @@
+# Site settings
+title: "Marit Larsen lyrics"
+description: "All the lyrics that Marit Larsen has sung."
+baseurl: ""
+url: "http://lyrics.maritlarsen.ml"
+
+# Build settings
+markdown: kramdown
+permalink: none
+highlighter: pygments
+paginate: 3
+
+# Links
+links:
+  # - title: "Home"
+  #   url: /
+  - title: "Under the Surface"
+    url: /Under-the-Surface
+  - title: "The Chase"
+    url: /The-Chase
+  - title: "Spark"
+    url: /Spark
+  - title: "Others"
+    url: /Others
