@@ -1,6 +1,5 @@
-typewriter
+Marit Larsen Lyrics
 ==========
-
-A simple and beautiful theme for Jekyll.
+Lyrics are Beautiful displayed in [typewriter](http://alixedi.github.io/typewriter/) theme.
 
 ![Screenshot](https://raw.githubusercontent.com/alixedi/typewriter/master/images/screenshot.png)
