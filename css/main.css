@@ -134,3 +134,21 @@ footer {
   text-align: center;
   margin-top: 40px;
 }
+
+.float {
+  float: right;
+  width: 400px;
+  margin-bottom: 20px;
+}
+
+.clean {
+  clear: both; 
+}
+
+.clean:after {
+  clear: both;
+  content: ".";
+  display: block;
+  height: 0;
+  visibility: hidden;
+}

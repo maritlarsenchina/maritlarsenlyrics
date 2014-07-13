@@ -3,7 +3,9 @@ layout: page
 title: Under the Surface
 permalink: /under-the-surface/
 ---
-<a href="/images/covers/under-the-surface.jpg" target="_blank"><img src="/images/covers/thumbnail/under-the-surface.jpg" alt="Under the Surface album cover" width="400px" style="float:right" /></a>
+<div class="float">
+<a href="/images/covers/under-the-surface.jpg" target="_blank"><img src="/images/covers/thumbnail/under-the-surface.jpg" alt="Under the Surface album cover" /></a>
+</div>
 
 Tracklist
 
@@ -28,7 +30,9 @@ Tracklist
  10. [Come Closer](/under-the-surface/Come-Closer.html)
  
  11. [Poison Passion](/under-the-surface/Poison-Passion.html)
-<hr />
+
+<div class="clean"><hr /></div>
+
 Under the Surface is the debut album from Norwegian singer-songwriter Marit Larsen which was released on March 6, 2006. All but three of the songs on the album were written solely by Marit herself. The album went gold in Norway after selling more than 20,000 copies in less than 3 weeks. The album debuted and peaked at No. 3 on the sales chart in Norway. The album spent 52 weeks on VG Topp 40 and 62 weeks on VG Topp 30 Norsk and so far.
 
 From Wikipedia.

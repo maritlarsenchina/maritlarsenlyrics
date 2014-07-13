@@ -3,7 +3,9 @@ layout: page
 title: Spark
 permalink: /spark/
 ---
-<a href="/images/covers/spark.jpg" target="_blank"><img src="/images/covers/thumbnail/spark.jpg" alt="Spark album cover" width="400px" style="float:right" /></a>
+<div class="float">
+<a href="/images/covers/spark.jpg" target="_blank"><img src="/images/covers/thumbnail/spark.jpg" alt="Spark album cover" /></a>
+</div>
 
 Tracklist
 
@@ -26,7 +28,8 @@ Tracklist
  09. [Fine Line](/spark/Fine-Line.html)
 
  10. [That Day](/spark/That-Day.html)
-<hr />
+
+<div class="clean"><hr /></div>
 Spark is the third album from Norwegian singer-songwriter Marit Larsen, and was released on 18 November 2011. The information was made available via Marit Larsen's Tumblr page. On 31 July 2011 Marit Larsen began to post information about her third album on her Tumblr. On 7 October 2011 she announced the name of the album and tracklist. The first single, "Coming Home" had premiered on NRK P1 and on her Facebook page on 15 October.
 
 From Wikipedia.

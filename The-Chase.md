@@ -3,7 +3,9 @@ layout: page
 title: The Chase
 permalink: /the-chase/
 ---
-<a href="/images/covers/the-chase.jpg" target="_blank"><img src="/images/covers/thumbnail/the-chase.jpg" alt="The Chase album cover" width="400px" style="float:right" /></a>
+<div class="float">
+<a href="/images/covers/the-chase.jpg" target="_blank"><img src="/images/covers/thumbnail/the-chase.jpg" alt="The Chase album cover" /></a>
+</div>
 
 Tracklist
 
@@ -27,7 +29,7 @@ Tracklist
 
  10. [Fences](/the-chase/Fences.html)
 
-<hr />
+<div class="clean"><hr /></div>
 The Chase is the second album from Norwegian singer-songwriter Marit Larsen, and was released on October 13, 2008. The first single of this album entitled "If a Song Could Get Me You" was made available via Marit Larsen's Myspace page on August 11, 2008.
 
 From Wikipedia.
