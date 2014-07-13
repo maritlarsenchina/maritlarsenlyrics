@@ -1,7 +1,7 @@
 ---
 layout: page
 title: The Chase
-permalink: /The-Chase/
+permalink: /the-chase/
 ---
 Tracklist
 

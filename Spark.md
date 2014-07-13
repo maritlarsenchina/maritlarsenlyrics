@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Spark
-permalink: /Spark/
+permalink: /spark/
 ---
 Tracklist
 

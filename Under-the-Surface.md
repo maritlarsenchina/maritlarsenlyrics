@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Under the Surface
-permalink: /Under-the-Surface/
+permalink: /under-the-surface/
 ---
 Tracklist
 
