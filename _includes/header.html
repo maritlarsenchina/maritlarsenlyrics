@@ -8,12 +8,14 @@
 
     <div class="menu">
         <ul class="navlist">
+        <a title="Home" href="/"><img src="/images/home.png" width="14px"></a> 
             {% for link in site.links %}
             <li>
                 <a class="page-link" href="{{ link.url | prepend: site.baseurl }}">{{ link.title }}</a>
             </li>
             {% endfor %}
         </ul>
+        <hr />
     </div>
 </div>
 

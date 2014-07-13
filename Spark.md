@@ -3,6 +3,8 @@ layout: page
 title: Spark
 permalink: /spark/
 ---
+<a href="/images/covers/spark.jpg" target="_blank"><img src="/images/covers/thumbnail/spark.jpg" alt="Spark album cover" width="400px" style="float:right" /></a>
+
 Tracklist
 
  01. [Keeper Of The Keys](/spark/Keeper-Of-The-Keys.html)

@@ -3,6 +3,8 @@ layout: page
 title: Under the Surface
 permalink: /under-the-surface/
 ---
+<a href="/images/covers/under-the-surface.jpg" target="_blank"><img src="/images/covers/thumbnail/under-the-surface.jpg" alt="Under the Surface album cover" width="400px" style="float:right" /></a>
+
 Tracklist
 
  01. [In Came The Light](/under-the-surface/In-Came-The-Light.html)

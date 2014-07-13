@@ -3,6 +3,8 @@ layout: page
 title: The Chase
 permalink: /the-chase/
 ---
+<a href="/images/covers/the-chase.jpg" target="_blank"><img src="/images/covers/thumbnail/the-chase.jpg" alt="The Chase album cover" width="400px" style="float:right" /></a>
+
 Tracklist
 
  01. [The Chase](/the-chase/The-Chase.html)
