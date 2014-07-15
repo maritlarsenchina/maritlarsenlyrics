@@ -7,7 +7,7 @@ This is not a song about his lips
 
 This is not another tender wish
 
-That was then these were different days
+That was then these are different days
 
 Even now, I sometimes miss the taste
 
