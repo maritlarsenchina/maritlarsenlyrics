@@ -5,11 +5,11 @@ categories: Under-the-Surface
 ---
 This is not a song about his lips
 This is not another tender wish
-That was then these different days
-Even now, sometimes miss the taste
-This is not a song about night
+That was then these were different days
+Even now, I sometimes miss the taste
+This is not a song about the night
 We were young and everything was right
-When all the things we did just seem it don't work
+When all the things we did just seemed work
 Now the news is old
 It all just seems to hurt
 just seems to hurt
@@ -27,7 +27,7 @@ is done
 I don't want to talk about it
 
 This is not for all the tears we've cried
-It's not another worthlessly little to fight
+It's not another worthless little fight
 It all comes back to me but no regrets
 I'd rather let it go and just forget
 Just forget
@@ -43,8 +43,8 @@ What's done
 is done
 I don't want to talk about it
 
-All love is all good that we made
-is all bad made me couldn't take
+All of the good that remains
+All that memory contains
 All that is still on display
 after he walked away
 He is the reason
