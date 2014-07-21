@@ -11,7 +11,7 @@ That was then these are different days
 
 Even now, I sometimes miss the taste
 
-This is not a song about the night
+This is not a song about a night
 
 We were young and everything was right
 
@@ -98,7 +98,7 @@ after he walked away
 
 He is the reason
 
-You were the reason why I
+You are the reason why I
 
 
 
