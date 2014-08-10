@@ -15,7 +15,7 @@ This is not a song about a night
 
 We were young and everything was right
 
-When all the things we did just seemed work
+When all the things we did just seemed to work
 
 Now the news is old
 
@@ -41,7 +41,7 @@ I don't want to talk about it
 
 It's never just one mistake
 
-It's never just one heart break
+It's never just one heartbreak
 
 What's done
 
@@ -77,7 +77,7 @@ I don't want to talk about it
 
 It's never just one mistake
 
-It's never just one heart break
+It's never just one heartbreak
 
 What's done
 
@@ -115,7 +115,7 @@ I don't want to talk about it
 
 It's never just one mistake
 
-It's never just one heart break
+It's never just one heartbreak
 
 What's done
 
@@ -134,7 +134,7 @@ What's done
 
 is done
 
-It's done
+is done
 
 It's done
 
@@ -142,9 +142,9 @@ I don't want to talk about it
 
 I don't want to talk about it
 
-It's done
+Is done
 
-It's done
+Is done
 
 I don't want to talk about it
 
@@ -153,7 +153,7 @@ I don't want to talk about it
 
 It's never just one mistake
 
-It's never just one heart break
+It's never just one heartbreak
 
 What's done
 
