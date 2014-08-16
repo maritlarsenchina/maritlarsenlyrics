@@ -11,7 +11,7 @@ Tracklist
 
  03. I'd Do It Again
 
- 04.[I Don't Want To Talk about It](/when-the-morning-comes/I-Dont-Want-To-Talk-about-It.html)
+ 04. [I Don't Want To Talk about It](/when-the-morning-comes/I-Dont-Want-To-Talk-about-It.html)
 
  05. Before You Fell
 
