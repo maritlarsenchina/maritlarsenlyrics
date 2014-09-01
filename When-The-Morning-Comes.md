@@ -15,7 +15,7 @@ Tracklist
 
  05. Before You Fell
 
- 06. Shine on Little Diamond
+ 06. [Shine on Little Diamond](/when-the-morning-comes/Shine-On-Little-Diamond.html)
 
  07. Lean on Me, Lisa
 
