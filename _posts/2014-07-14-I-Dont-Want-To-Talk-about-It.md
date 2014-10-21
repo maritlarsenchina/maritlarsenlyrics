@@ -92,7 +92,7 @@ All of the good that remains
 
 All that memory contains
 
-All that is still on display
+All that is still unexplained
 
 after he walked away
 
