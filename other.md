@@ -49,4 +49,4 @@ list
 
  These songs include Marit Larsen's original unreleased songs, covers of other artists, and doing-featured-part songs with other artists, which are not included in her official releases of albums.
 
- If you find any mistakes or want to add new songs that belonged to this category, please sign up a github account and send us a issue at [https://github.com/maritlarsenchina/maritlarsenlyrics/issues](https://github.com/maritlarsenchina/maritlarsenlyrics/issues)
+ If you find any mistakes or want to add new songs that belonged to this category, please sign up a github account and send us an issue at [https://github.com/maritlarsenchina/maritlarsenlyrics/issues](https://github.com/maritlarsenchina/maritlarsenlyrics/issues)
