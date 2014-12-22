@@ -13,7 +13,7 @@ Tracklist
 
  02. [Faith & Science](/when-the-morning-comes/Faith-&-Science.html)
 
- 03. [I'd Do It Again](/when-the-morning-comes/Id-Do-It-Again.html)
+ 03. [I'd Do It All Again](/when-the-morning-comes/Id-Do-It-All-Again.html)
 
  04. [I Don't Want To Talk About It](/when-the-morning-comes/I-Dont-Want-To-Talk-About-It.html)
 
@@ -21,7 +21,7 @@ Tracklist
 
  06. [Shine on Little Diamond](/when-the-morning-comes/Shine-On-Little-Diamond.html)
 
- 07. [Lean on Me, Lisa](/when-the-morning-comes/Lean-on-Me-Lisa.html)
+ 07. [Lean On Me, Lisa](/when-the-morning-comes/Lean-On-Me-Lisa.html)
 
  08. [Traveling Alone](/when-the-morning-comes/Traveling-Alone.html)
 
