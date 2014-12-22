@@ -11,7 +11,7 @@ That was then and these are different days
 
 Even now, I sometimes miss the taste
 
-
+<br />
 
 This is not a song about a night
 
@@ -23,7 +23,7 @@ Now the news is old and
 
 It all just seems to hurt, just seems to hurt
 
-
+<br />
 
 Don’t talk about what we are
 
@@ -33,7 +33,7 @@ What’s done is done
 
 I don’t want to talk about it
 
-
+<br />
 
 It’s never just one mistake
 
@@ -43,7 +43,7 @@ What’s done is done
 
 I don’t want to talk about it
 
-
+<br />
 
 This is not for all the tears we’ve cried
 
@@ -53,7 +53,7 @@ It all comes back to me but no regret
 
 I’d rather let it go than just forget, just forget
 
-
+<br />
 
 Don’t talk about what we are
 
@@ -63,7 +63,7 @@ What’s done is done
 
 I don’t want to talk about it
 
-
+<br />
 
 It’s never just one mistake
 
@@ -73,7 +73,7 @@ What’s done is done
 
 I don’t want to talk about it
 
-
+<br />
 
 All of the good that remains
 
@@ -87,7 +87,7 @@ He is the reason
 
 You are the reason why I
 
-
+<br />
 
 Don’t talk about what we are
 
@@ -97,7 +97,7 @@ What’s done is done
 
 I don’t want to talk about it
 
-
+<br />
 
 It’s never just one mistake
 
@@ -107,7 +107,7 @@ What’s done is done
 
 I don’t want to talk about it
 
-
+<br />
 
 Don’t talk about what we are
 
@@ -129,7 +129,7 @@ Is done
 
 I don’t want to talk about it
 
-
+<br />
 
 It’s never just one mistake
 
