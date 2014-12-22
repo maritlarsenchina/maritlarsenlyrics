@@ -7,9 +7,11 @@ This is not a song about his lips
 
 This is not another tender wish
 
-That was then these are different days
+That was then and these are different days
 
 Even now, I sometimes miss the taste
+
+
 
 This is not a song about a night
 
@@ -17,74 +19,59 @@ We were young and everything was right
 
 When all the things we did just seemed to work
 
-Now the news is old
+Now the news is old and
 
-It all just seems to hurt
-
-just seems to hurt
+It all just seems to hurt, just seems to hurt
 
 
 
+Don’t talk about what we are
 
-Don't talk about what we are
+Don’t talk about what we’ve been
 
-Don't talk about what we've been
+What’s done is done
 
-What's done
-
-is done
-
-I don't want to talk about it
+I don’t want to talk about it
 
 
 
+It’s never just one mistake
 
-It's never just one mistake
+It’s never just one heartbreak
 
-It's never just one heartbreak
+What’s done is done
 
-What's done
-
-is done
-
-I don't want to talk about it
+I don’t want to talk about it
 
 
 
+This is not for all the tears we’ve cried
 
-This is not for all the tears we've cried
+It’s not another worthless little fight
 
-It's not another worthless little fight
+It all comes back to me but no regret
 
-It all comes back to me but no regrets
-
-I'd rather let it go and just forget
-
-Just forget
+I’d rather let it go than just forget, just forget
 
 
 
+Don’t talk about what we are
 
-Don't talk about what we are
+Don’t talk about what we’ve been
 
-Don't talk about what we've been
+What’s done is done
 
-What's done
+I don’t want to talk about it
 
-is done
 
-I don't want to talk about it
 
-It's never just one mistake
+It’s never just one mistake
 
-It's never just one heartbreak
+It’s never just one heartbreak
 
-What's done
+What’s done is done
 
-is done
-
-I don't want to talk about it
-
+I don’t want to talk about it
 
 
 
@@ -94,7 +81,7 @@ All that memory contains
 
 All that is still unexplained
 
-after he walked away
+After he walked away
 
 He is the reason
 
@@ -102,61 +89,52 @@ You are the reason why I
 
 
 
+Don’t talk about what we are
 
-Don't talk about what we are
+Don’t talk about what we’ve been
 
-Don't talk about what we've been
+What’s done is done
 
-What's done
-
-is done
-
-I don't want to talk about it
-
-It's never just one mistake
-
-It's never just one heartbreak
-
-What's done
-
-is done
-
-I don't want to talk about it
+I don’t want to talk about it
 
 
 
+It’s never just one mistake
 
-Don't talk about what we are
+It’s never just one heartbreak
 
-Don't talk about what we've been
+What’s done is done
 
-What's done
+I don’t want to talk about it
 
-is done
 
-is done
 
-It's done
+Don’t talk about what we are
 
-I don't want to talk about it
+Don’t talk about what we’ve been
 
-I don't want to talk about it
+What’s done is done
 
 Is done
 
 Is done
 
-I don't want to talk about it
+I don’t want to talk about it
+
+I don’t want to talk about it
+
+Is done
+
+Is done
+
+I don’t want to talk about it
 
 
 
+It’s never just one mistake
 
-It's never just one mistake
+It’s never just one heartbreak
 
-It's never just one heartbreak
+What’s done is done
 
-What's done
-
-is done
-
-I don't want to talk about it
+I don’t want to talk about it
