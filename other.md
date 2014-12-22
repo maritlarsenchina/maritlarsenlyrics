@@ -25,7 +25,7 @@ list
 
  07. My Boyfriend's Back - The Angels
 
- 08. Vår beste dag - Erik Bye
+ 08. Vår Beste Dag - Erik Bye
 
 **original**
 
