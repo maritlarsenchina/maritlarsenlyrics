@@ -21,9 +21,11 @@ list
 
  05. I Want To Sing That Rock And Roll - Gillian Welch
 
- 06. My Boyfriend's Back - The Angels
+ 06. Mitt Hjerte Alltid Vanker(Christmas song) - Garness feat. Marit Larsen
 
- 07. Vår beste dag - Erik Bye
+ 07. My Boyfriend's Back - The Angels
+
+ 08. Vår beste dag - Erik Bye
 
 **original**
 
