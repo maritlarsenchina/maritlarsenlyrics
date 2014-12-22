@@ -10,6 +10,7 @@ permalink: /other/
 list
 
  **cover**
+ 
  01. Dear Someone - Gillian Welch
 
  02. Fix You - Cold Play
@@ -25,6 +26,7 @@ list
  07. Vår beste dag - Erik Bye
 
 **original**
+
  01. Devastating
 
  01. My Oh My
@@ -32,6 +34,7 @@ list
  03. Walls/October Month
 
 **featured**
+
  01. God Natt - Vinni feat. Marit Larsen
 
  02. Out Of My Hands - Milow feat. Marit Larsen
