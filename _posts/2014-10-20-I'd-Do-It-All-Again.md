@@ -9,7 +9,7 @@ Wide awake, no sleep
 
 Limelight, silver screens
 
-
+<br />
 
 Took a drive, head first
 
@@ -17,7 +17,7 @@ Like a bubble, I burst
 
 Didn’t think 'til it hurt
 
-
+<br />
 
 I’ve been up so high
 
@@ -35,7 +35,7 @@ But I wouldn’t change anything
 
 I would go back and do it all again
 
-
+<br />
 
 Twenty-four, a little more
 
@@ -45,7 +45,7 @@ Never been so sure
 
 As when I met him
 
-
+<br />
 
 Sold the truth, told a lie
 
@@ -55,7 +55,7 @@ Only held what was mine
 
 What was I thinking
 
-
+<br />
 
 I’ve been up so high
 
@@ -73,7 +73,7 @@ But I wouldn’t change anything
 
 I would go back and do it all again
 
-
+<br />
 
 Every sting, every scar
 
@@ -83,7 +83,7 @@ All the things that might have been
 
 I would go back and do it all again
 
-
+<br />
 
 I’ve been up so high
 
@@ -93,7 +93,7 @@ Been held on tight
 
 I’ve been let go
 
-
+<br />
 
 I’ve been up so high
 

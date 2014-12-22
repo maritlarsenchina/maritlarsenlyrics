@@ -11,7 +11,7 @@ When your hands are cold
 
 And your words are spent
 
-
+<br />
 
 Shine on
 
@@ -21,7 +21,7 @@ When the water’s deep
 
 And your bones are bent
 
-
+<br />
 
 I’ve seen you in the dark and
 
@@ -35,7 +35,7 @@ Shine on you little diamond
 
 You’re more than enough
 
-
+<br />
 
 Shine on
 
@@ -45,7 +45,7 @@ When you’re someone’s loss
 
 And you’re out of luck
 
-
+<br />
 
 Shine on
 
@@ -55,7 +55,7 @@ When the curtain’s closed
 
 And you’ve given up
 
-
+<br />
 
 I’ve seen you in the dark
 
@@ -77,15 +77,15 @@ Shine on you little diamond
 
 Nothing’s in vain
 
-
-
-(Shine on you little diamond)
+<br />
 
 (Shine on you little diamond)
 
 (Shine on you little diamond)
 
+(Shine on you little diamond)
 
+<br />
 
 When the clock runs out
 
@@ -97,7 +97,7 @@ And that’s all you have
 
 Shine on
 
-
+<br />
 
 I’ve seen you in the dark
 

@@ -13,7 +13,7 @@ Be wishing on stars
 
 You’ve got to stay with it
 
-
+<br />
 
 You’re gonna get lost
 
@@ -27,7 +27,7 @@ But you gotta stay with it
 
 Oh, you gotta stay with it
 
-
+<br />
 
 You are traveling alone
 
@@ -39,7 +39,7 @@ Like a rolling stone
 
 You’re traveling alone
 
-
+<br />
 
 You're goona get lonely
 
@@ -53,7 +53,7 @@ But you gotta be in it
 
 Oh, you gotta be in it
 
-
+<br />
 
 You’ve got to be patient
 
@@ -65,7 +65,7 @@ Singing your songs
 
 You’ve got to be in it
 
-
+<br />
 
 You are traveling alone
 
@@ -77,7 +77,7 @@ Like a rolling stone
 
 You’re traveling alone
 
-
+<br />
 
 You’re gonna keep learning
 
@@ -95,7 +95,7 @@ But always remember
 
 and never forget that
 
-
+<br />
 
 You are traveling alone
 
@@ -105,7 +105,7 @@ You are traveling alone
 
 Like a rolling stone
 
-
+<br />
 
 You are traveling alone
 

@@ -11,7 +11,7 @@ Then suddenly out of nowhere
 
 A crash and a universe
 
-
+<br />
 
 The echoes of faith and sience
 
@@ -21,7 +21,7 @@ Are trying to break the silence
 
 Arguing what comes first
 
-
+<br />
 
 Do you hold your breath and make up your mind
 
@@ -35,7 +35,7 @@ It’s a fight with
 
 Faith and Sience
 
-
+<br />
 
 A moment that’s clear and honest
 
@@ -49,7 +49,7 @@ And I can’t forget about him
 
 I can’t forget about him
 
-
+<br />
 
 Do you hold your breath and make up your mind
 
@@ -65,7 +65,7 @@ Faith and Sience
 
 Faith and Sience
 
-
+<br />
 
 Do you hold your breath and make up your mind
 
@@ -75,7 +75,7 @@ Or is it just a feeling when you know
 
 Do you hold your breath and make up your mind
 
-
+<br />
 
 Can you calculate in space and time
 

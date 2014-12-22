@@ -11,7 +11,7 @@ For all that is new
 
 Consider this
 
-
+<br />
 
 For all that is dark
 
@@ -21,7 +21,7 @@ For all that is true
 
 Consider this
 
-
+<br />
 
 Before your mind’s made up
 
@@ -35,7 +35,7 @@ Before you give in to the danger on her kiss
 
 Consider This
 
-
+<br />
 
 For all that is blue
 
@@ -45,7 +45,7 @@ For all that’s enough
 
 Consider this
 
-
+<br />
 
 For all that is frail
 
@@ -55,7 +55,7 @@ For all that is love
 
 Consider This
 
-
+<br />
 
 Before your mind’s made up
 
@@ -69,7 +69,7 @@ Before you give in to the danger on her kiss
 
 Consider This
 
-
+<br />
 
 For all that is said
 

@@ -15,7 +15,7 @@ Lean on me
 
 Lean on me
 
-
+<br />
 
 When you feel a goodbye
 
@@ -29,7 +29,7 @@ Lean on me
 
 Lean on me, Lisa
 
-
+<br />
 
 Like a tree, like a rock,
 
@@ -45,7 +45,7 @@ a place you call home
 
 Lean on me, Lisa
 
-
+<br />
 
 When you’re wrapped in winter,
 
@@ -59,7 +59,7 @@ Lean on me
 
 Lean on me, Lisa
 
-
+<br />
 
 Like a tree, like a rock,
 
@@ -75,7 +75,7 @@ a place you call home
 
 Lean on me, Lisa
 
-
+<br />
 
 When you’re a ship lost at sea
 
@@ -85,7 +85,7 @@ Lean on me, Lisa
 
 Lean on me, Lisa
 
-
+<br />
 
 Like a tree, like a rock,
 

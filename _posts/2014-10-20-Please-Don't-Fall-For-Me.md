@@ -15,7 +15,7 @@ all your wicked schemes
 
 Or need an escape just because
 
-
+<br />
 
 And whether you’ve lost a job
 
@@ -33,7 +33,7 @@ That whatever you do
 
 Don’t fall for me
 
-
+<br />
 
 ‘Cause if your heart is set on something
 
@@ -51,7 +51,7 @@ So whatever you do
 
 Please don’t fall for me
 
-
+<br />
 
 Maybe I’m underestimating
 
@@ -69,7 +69,7 @@ But if it was right
 
 Maybe I would
 
-
+<br />
 
 ’Cause if your heart is set on something
 
@@ -87,7 +87,7 @@ So whatever you do
 
 Please don’t fall for me
 
-
+<br />
 
 If your heart is set on something
 

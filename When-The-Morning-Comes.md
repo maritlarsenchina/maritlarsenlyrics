@@ -9,11 +9,11 @@ permalink: /when-the-morning-comes/
 
 Tracklist
 
- 01. [Please Don't Fall For Me](/when-the-morning-comes/Please-Don't-Fall-For-Me.html)
+ 01. [Please Don't Fall For Me](/when-the-morning-comes/Please-Dont-Fall-For-Me.html)
 
  02. [Faith & Science](/when-the-morning-comes/Faith-&-Science.html)
 
- 03. [I'd Do It Again](/when-the-morning-comes/I'd-Do-It-Again.html)
+ 03. [I'd Do It Again](/when-the-morning-comes/Id-Do-It-Again.html)
 
  04. [I Don't Want To Talk about It](/when-the-morning-comes/I-Dont-Want-To-Talk-About-It.html)
 
@@ -21,7 +21,7 @@ Tracklist
 
  06. [Shine on Little Diamond](/when-the-morning-comes/Shine-On-Little-Diamond.html)
 
- 07. [Lean on Me, Lisa](/when-the-morning-comes/Lean-on-Me,-Lisa.html)
+ 07. [Lean on Me, Lisa](/when-the-morning-comes/Lean-on-Me-Lisa.html)
 
  08. [Traveling Alone](/when-the-morning-comes/Traveling-Alone.html)
 

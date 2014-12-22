@@ -11,7 +11,7 @@ Every beat of your heart is holding back
 
 Every piece, every part is in the past
 
-
+<br />
 
 Where do you turn
 
@@ -35,7 +35,7 @@ Before you fell
 
 Before you fell
 
-
+<br />
 
 Every line that you cross is just a line
 
@@ -49,7 +49,7 @@ It’s hard to keep believing when you’ve felt
 
 so sure and you were proven so wrong
 
-
+<br />
 
 Where do you turn
 
@@ -71,7 +71,7 @@ you how to find the one you were
 
 Before you fell
 
-
+<br />
 
 Where do you turn
 

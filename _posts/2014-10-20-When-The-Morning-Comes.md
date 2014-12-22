@@ -15,7 +15,7 @@ That little light that mends your bones
 
 You’ll feel it when the morning comes
 
-
+<br />
 
 And when that light reaches your heart
 
@@ -27,7 +27,7 @@ Nowhere to run
 
 You’ll know it when the morning comes
 
-
+<br />
 
 And when the veil is stripped away
 
@@ -39,7 +39,7 @@ the rising sun
 
 You’ll see it when the morning comes
 
-
+<br />
 
 With all your soul
 
@@ -55,7 +55,7 @@ Do what you want
 
 You’ll hold it when the morning comes
 
-
+<br />
 
 And when the veil is stripped away
 
@@ -67,7 +67,7 @@ the rising sun
 
 You’ll see it when the morning comes
 
-
+<br />
 
 When you find your truth
 
@@ -83,7 +83,7 @@ Will fill your lungs
 
 You’ll breath it when the morning comes
 
-
+<br />
 
 And when the veil is stripped away
 
