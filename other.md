@@ -38,10 +38,12 @@ list
 **featured**
 
  01. God Natt - Vinni feat. Marit Larsen
-
- 02. Out Of My Hands - Milow feat. Marit Larsen
  
- 03. Sweet Carolina - Milow feat. Marit Larsen
+ 02. Lucky - Jason Mraz feat. Marit Larsen(live)
+
+ 03. Out Of My Hands - Milow feat. Marit Larsen
+ 
+ 04. Sweet Carolina - Milow feat. Marit Larsen
 
  <div class="clean"><hr /></div>
 
