@@ -11,21 +11,31 @@ list
 
  **cover**
  01. Dear Someone - Gillian Welch
+
  02. Fix You - Cold Play
+
  03. Heartbreakfree - Ji Nilsson
+
  04. I Think It's Gonna Rain Today -  Randy Newman
- 05. I Want To Sing That Rock And Roll -Gillian Welch
+
+ 05. I Want To Sing That Rock And Roll - Gillian Welch
+
  06. My Boyfriend's Back - The Angels
+
  07. Vår beste dag - Erik Bye
 
 **original**
  01. Devastating
+
  01. My Oh My
+
  03. Walls/October Month
 
 **featured**
  01. God Natt - Vinni feat. Marit Larsen
+
  02. Out Of My Hands - Milow feat. Marit Larsen
+ 
  03. Sweet Carolina - Milow feat. Marit Larsen
 
  <div class="clean"><hr /></div>
