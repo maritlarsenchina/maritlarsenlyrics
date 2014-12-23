@@ -8,9 +8,9 @@ body {
 .container {
   background: #ffe;
   box-shadow: 0 0 10px rgba(0,0,0,0.5);
-  margin: 100px auto 0;
+  margin: 80px auto 0;
   max-width: 800px; /*400px;*/
-  min-height: 600px; /*300px;*/
+  min-height: 300px; /*300px;*/
   padding: 100px; /*200px;*/
   position: relative;
   width: 80%;
@@ -51,22 +51,28 @@ a:link, a:visited, a:active, a:hover {
   font-weight: bold;
 }
 
+.page-link:before {
+  content: " ";
+}
+
 a.page-link:hover {
   border-bottom: 4px solid #C00;
 }
 
 .navlist {
-  padding: 0px 0px;
-  width: 85%;
-  margin-left: auto;
-  margin-right: auto;
+  padding: 0px 0px 20px;
+  width: 75%;
+  margin: 0 auto;
   text-align: center;
 }
 
 .navlist > li {
-  display: inline;
+  display: inline-block;
   list-style-type: none;
-  padding-right: 10px;
+}
+
+.navlist > li:after {
+  content: " ";
 }
 
 /* headings */
@@ -91,7 +97,7 @@ h3 {
 
 .header {
   text-align: center;
-  margin-bottom: 40px;
+  margin-bottom: 20px;
 }
 
 .header > h1 {
@@ -99,6 +105,15 @@ h3 {
   margin-bottom: 10px;
   text-decoration: none;
   text-shadow: 1px 0px 1px #444;
+}
+
+.title {
+  font-color: #000;
+  font-size: 133%;
+}
+
+.sub {
+  font-size: 67%;
 }
 
 /* posts */
