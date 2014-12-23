@@ -51,10 +51,6 @@ a:link, a:visited, a:active, a:hover {
   font-weight: bold;
 }
 
-.page-link:before {
-  content: " ";
-}
-
 a.page-link:hover {
   border-bottom: 4px solid #C00;
 }
