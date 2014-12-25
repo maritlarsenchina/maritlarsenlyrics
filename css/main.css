@@ -167,3 +167,7 @@ footer {
   height: 0;
   visibility: hidden;
 }
+
+.post-content {
+  font-family: 'Lato';
+}
