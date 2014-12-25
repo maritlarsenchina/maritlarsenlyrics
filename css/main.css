@@ -170,4 +170,15 @@ footer {
 
 .post-content {
   font-family: 'Lato';
+  font-size: 120%;
+  font-weight: 300;
+  line-height: 1.625;
+}
+
+.post-content > p {
+  display: block;
+  -webkit-margin-before: 1em;
+  -webkit-margin-after: 1em;
+  -webkit-margin-start: 0px;
+  -webkit-margin-end: 0px;
 }
