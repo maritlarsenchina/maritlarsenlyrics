@@ -35,7 +35,7 @@ And reveals the silver lining
 
 Oh, the hope
 
-the rising sun
+The rising sun
 
 You’ll see it when the morning comes
 
@@ -63,7 +63,7 @@ And reveals the silver lining
 
 Oh, the hope
 
-the rising sun
+The rising sun
 
 You’ll see it when the morning comes
 
@@ -91,7 +91,7 @@ And reveals the silver lining
 
 Oh, the hope
 
-the rising sun
+The rising sun
 
 You’ll feel it when the morning comes
 

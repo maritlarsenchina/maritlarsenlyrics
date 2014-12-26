@@ -61,9 +61,7 @@ How do you learn to live the life you had
 
 before you let him in
 
-You can try and try
-
-With all your might
+You can try and try with all your might
 
 But only time will tell
 

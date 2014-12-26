@@ -25,13 +25,13 @@ Consider this
 
 Before your mind’s made up
 
-and falls into place
+and all falls into place
 
 Before your shoes are tied
 
 and you go on your way
 
-Before you give in to the danger on her kiss
+Before you give in to the danger of her kiss
 
 Consider This
 
@@ -39,7 +39,7 @@ Consider This
 
 For all that is blue
 
-For all that has been
+For all that is has been
 
 For all that’s enough
 
@@ -59,13 +59,13 @@ Consider This
 
 Before your mind’s made up
 
-and falls into place
+and all falls into place
 
 Before your shoes are tied
 
 and you go on your way
 
-Before you give in to the danger on her kiss
+Before you give in to the danger of her kiss
 
 Consider This
 

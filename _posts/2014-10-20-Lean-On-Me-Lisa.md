@@ -73,10 +73,6 @@ Like a truth, like a song,
 
 a place you call home
 
-Lean on me, Lisa
-
-<br />
-
 When you’re a ship lost at sea
 
 When you drift away from me

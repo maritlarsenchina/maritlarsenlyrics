@@ -53,7 +53,7 @@ When the day is done
 
 When the courtain’s closed
 
-You’re giving up
+And you’re giving up
 
 <br />
 
@@ -65,19 +65,17 @@ Shine on you little diamond
 
 You’re more than enough
 
-<br />
-
 I’ve seen you in your struggle
 
 I’ve seen your pain
 
 Shine on you little diamond
 
-And nothing’s in vain
+Nothing’s in vain
 
 Shine on you little diamond
 
-And nothing’s in vain
+Nothing’s in vain
 
 <br />
 
@@ -109,16 +107,14 @@ Shine on you little diamond
 
 You’re more than enough
 
-<br />
-
 I’ve seen you in your struggle
 
 I’ve seen your pain
 
 Shine on you little diamond
 
-And nothing’s in vain
+Nothing’s in vain
 
 Shine on you little diamond
 
-And nothing’s in vain
+Nothing’s in vain

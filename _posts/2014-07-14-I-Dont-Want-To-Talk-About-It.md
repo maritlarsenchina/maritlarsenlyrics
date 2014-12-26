@@ -9,19 +9,23 @@ This is not another tender wish
 
 That was then and these are different days
 
-Even now, I sometimes miss the taste
+(But) Even now, I sometimes miss the taste
 
 <br />
 
 This is not a song about a night
 
-We were young and everything was right
+When we were young
 
-When all the things we did just seemed to work
+and everything was right
 
-Now the news is old and
+When all the things we did
 
-It all just seems to hurt, just seems to hurt
+just seemed to work
+
+Now the news is old
+
+and it all just seems to hurt, just seems to hurt
 
 <br />
 
@@ -31,9 +35,7 @@ Don’t talk about what we’ve been
 
 What’s done is done
 
-I don’t want to talk about it
-
-<br />
+And I don’t want to talk about it
 
 It’s never just one mistake
 
@@ -41,7 +43,7 @@ It’s never just one heartbreak
 
 What’s done is done
 
-I don’t want to talk about it
+And I don’t want to talk about it
 
 <br />
 
@@ -49,7 +51,7 @@ This is not for all the tears we’ve cried
 
 It’s not another worthless little fight
 
-It all comes back to me but no regret
+It all comes back to me, but no regrets
 
 I’d rather let it go than just forget, just forget
 
@@ -63,15 +65,13 @@ What’s done is done
 
 I don’t want to talk about it
 
-<br />
-
 It’s never just one mistake
 
 It’s never just one heartbreak
 
 What’s done is done
 
-I don’t want to talk about it
+And I don’t want to talk about it
 
 <br />
 
@@ -95,9 +95,7 @@ Don’t talk about what we’ve been
 
 What’s done is done
 
-I don’t want to talk about it
-
-<br />
+And I don’t want to talk about it
 
 It’s never just one mistake
 
@@ -105,7 +103,7 @@ It’s never just one heartbreak
 
 What’s done is done
 
-I don’t want to talk about it
+And I don’t want to talk about it
 
 <br />
 
@@ -137,4 +135,4 @@ It’s never just one heartbreak
 
 What’s done is done
 
-I don’t want to talk about it
+And I don’t want to talk about it

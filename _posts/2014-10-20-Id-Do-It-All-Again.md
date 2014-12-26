@@ -9,13 +9,11 @@ Wide awake, no sleep
 
 Limelight, silver screens
 
-<br />
-
 Took a drive, head first
 
 Like a bubble, I burst
 
-Didn’t think 'til it hurt
+Didn’t think til it hurt
 
 <br />
 
@@ -44,8 +42,6 @@ Open heart, open doors
 Never been so sure
 
 As when I met him
-
-<br />
 
 Sold the truth, told a lie
 
@@ -92,8 +88,6 @@ Been down so low
 Been held on tight
 
 I’ve been let go
-
-<br />
 
 I’ve been up so high
 

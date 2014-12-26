@@ -65,6 +65,8 @@ Singing your songs
 
 You’ve got to be in it
 
+Oh, you’ve got to be in it
+
 <br />
 
 You are traveling alone

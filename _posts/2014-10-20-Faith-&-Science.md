@@ -13,7 +13,7 @@ A crash and a universe
 
 <br />
 
-The echoes of faith and sience
+The echoes of faith and science
 
 Are battling for your trust
 
@@ -33,7 +33,7 @@ Which is gonna land the final blow
 
 It’s a fight with
 
-Faith and Sience
+Faith and science
 
 <br />
 
@@ -43,7 +43,7 @@ A word that moves all doubt
 
 A flash of truth that blinds us
 
-A theory that word it out
+A theory that works it out
 
 And I can’t forget about him
 
@@ -61,9 +61,9 @@ Which is gonna land the final blow
 
 It’s a fight with
 
-Faith and Sience
+Faith and science
 
-Faith and Sience
+Faith and science
 
 <br />
 
@@ -85,8 +85,8 @@ Which is gonna land the final blow
 
 It’s a fight with
 
-Faith and Sience
+Faith and science
 
 It’s a fight with
 
-Faith and Sience
+Faith and science
