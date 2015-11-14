@@ -1,4 +1,19 @@
 <footer class="site-footer">
 <hr />
 <a href="http://maritlarsen.ml/" target="_blank">Code Name: Elisabeth</a>&nbsp;&bull;&nbsp;<a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank">Some Rights Reserved(CC BY-SA 4.0)</a>
+
+<!-- jQuery load webplayer -->
+<script type="text/javascript" src="http://ajax.aspnetcdn.com/ajax/jQuery/jquery-2.1.4.min.js"></script>
+<script type="text/javascript">
+	$.getJSON("http://ip-api.com/json", function(result) {
+		if (result.countryCode == "CN") {
+			var songid = $(".songid").attr('id');
+			var webplayer = "<iframe class\=\"webplayer\" frameborder\=\"no\" border\=\"0\" marginwidth\=\"0\" marginheight\=\"0\" width\=420 height\=86 src\=\"http:\/\/music.163.com\/outchain\/player?type\=2\&id\="
+			webplayer += songid + "\&auto\=0\&height\=66\"></iframe>";
+			var div_float_right = "<div class=\"float\">"+ webplayer +"</div>";
+			$("article.post-content").before(div_float_right);
+			$("article.post-content").after("<div class\=\"clean\"></div>");
+	};
+})
+</script>
 </footer>
