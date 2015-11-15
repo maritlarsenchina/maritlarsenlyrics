@@ -17,12 +17,13 @@ layout: default
   </article>
 <script type="text/javascript" src="http://ajax.aspnetcdn.com/ajax/jQuery/jquery-2.1.4.min.js"></script>
 <script type="text/javascript">
+	$(document).ready(
 	$.getJSON("http://ip-api.com/json", function(result) {
 		// if the visitor is from China, Hong Kong or Tai Wan
 		if (result.countryCode == "CN" || result.countryCode == "HK" || result.countryCode == "TW") {
 			var songid = $(".songid").attr('id');
 			// if there is a songid
-			if (songid != null) {
+			if (songid.length == 7) {
 				// generate netease music webplayer
 				var webplayer = '<embed class="webplayer" src="http://music.163.com/style/swf/widget.swf?sid=';
 				webplayer += songid + '&type=2&auto=0&width=320&height=66" width="340" height="86"  allowNetworking="all"></embed>';
@@ -32,9 +33,9 @@ layout: default
 				$("article.post-content").after("<div class\=\"clean\"></div>");
 			}
 			else {
-				$(".webplayer").hide()
+				//something
 			}
 		};
-});
+}))
 </script>
 </div>
