@@ -2,6 +2,7 @@
 layout: post
 title:  "Don’t Save Me"
 categories: Under-the-Surface
+songid: 3026486
 ---
 You say
 
@@ -15,13 +16,13 @@ Once we were brave explorers
 
 But this trail is a worn out track
 
- 
+
 
 Don't chase that setting sun
 
 Look what we've become
 
- 
+
 
 Don't save me
 
@@ -35,7 +36,7 @@ This empty heartache's pending
 
 This is us ending
 
- 
+
 
 You say You were just kidding
 
@@ -45,13 +46,13 @@ We've grown and we're not fitting
 
 We've flamed now to a wisp of smoke
 
- 
+
 
 Don't turn the truth around
 
 It reads the same way upside down
 
- 
+
 
 Don't save me
 
@@ -69,7 +70,7 @@ so don't save me
 
 don't you dare
 
- 
+
 
 Little by little
 
@@ -87,7 +88,7 @@ Leave me here
 
 I'll go looking elsewhere
 
- 
+
 
 Don't save me
 

@@ -2,6 +2,7 @@
 layout: post
 title:  "Poison Passion"
 categories: Under-the-Surface
+songid: 3026499
 ---
 
 
@@ -17,7 +18,7 @@ I’ll keep my head above the water
 ‘til you admit the damage’s done
 
 
- 
+
 
 
 Dry shimmer dazzle afternoon
@@ -29,7 +30,7 @@ Your poison passion came too soon
 You waste what you think you own
 
 
- 
+
 
 
 You cry when you’re still alone
