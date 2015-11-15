@@ -153,6 +153,7 @@ footer {
 .float {
   float: right;
   background: #ffe;
+  margin-top: 3%;
   width: 400px;
   margin-bottom: 20px;
 }
