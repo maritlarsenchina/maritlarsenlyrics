@@ -152,12 +152,14 @@ footer {
 
 .float {
   float: right;
+  background: #ffe;
   width: 400px;
   margin-bottom: 20px;
 }
 
 .clean {
   clear: both;
+  background: #ffe;
 }
 
 .clean:after {
@@ -166,6 +168,7 @@ footer {
   display: block;
   height: 0;
   visibility: hidden;
+  background: #ffe;
 }
 
 .post-content {
