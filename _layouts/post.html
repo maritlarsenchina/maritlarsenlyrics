@@ -18,9 +18,9 @@ layout: default
 <script type="text/javascript" src="http://ajax.aspnetcdn.com/ajax/jQuery/jquery-2.1.4.min.js"></script>
 <script type="text/javascript">
 	$(document).ready(
-	$.getJSON("http://ip-api.com/json", function(result) {
+	$.getJSON("http://ipinfo.io/json", function(result) {
 		// if the visitor is from China, Hong Kong or Tai Wan
-		if (result.countryCode == "CN" || result.countryCode == "HK" || result.countryCode == "TW") {
+		if (result.country == "CN" || result.countryCode == "HK" || result.countryCode == "TW") {
 			var songid = $(".songid").attr('id');
 			// if there is a songid
 			if (songid.length == 7) {
